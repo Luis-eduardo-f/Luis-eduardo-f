@@ -31,6 +31,8 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 | [**local-rag-knowledge-base**](https://github.com/Luis-eduardo-f/local-rag-knowledge-base) | Sistema de RAG 100% local e open-source (sem depender de APIs pagas), com avaliação de retrieval | Python · ChromaDB · sentence-transformers · Ollama |
 | [**sales-metrics-api**](https://github.com/Luis-eduardo-f/sales-metrics-api) | API analítica de métricas de vendas, com autenticação por API key e cache | Python · FastAPI · SQLAlchemy |
 | [**farmacia-expansion-bi**](https://github.com/Luis-eduardo-f/farmacia-expansion-bi) | Inteligência de expansão para rede de farmácias: regressão de potencial de faturamento (OLS + VIF), clustering de perfil de lojas (K-Means + PCA) e modelo de canibalização gravitacional (Huff) — estudo de caso "Drogaria Garibaldi" | Python · pandas · statsmodels · scikit-learn · matplotlib |
+| [**movimentacao-xadrez**](https://github.com/Luis-eduardo-f/movimentacao-xadrez) | Validação da movimentação das peças de xadrez (Torre, Bispo, Cavalo, Rainha, Rei, Peão) conforme suas regras — trabalho de Introdução à Programação de Computadores | Python |
+| [**web-data-interchange**](https://github.com/Luis-eduardo-f/web-data-interchange) | Exercícios de ADS/Engenharia de Software sobre formatos de intercâmbio de dados na web: XML, JSON e YAML — parsing, validação, localStorage e requisições AJAX | HTML · JavaScript |
 
 ---
 
