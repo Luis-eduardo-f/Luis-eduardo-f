@@ -20,6 +20,7 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 | [**ecommerce-data-warehouse**](https://github.com/Luis-eduardo-f/ecommerce-data-warehouse) | Data warehouse de e-commerce com dbt: staging, star schema e 59+ testes de qualidade de dados | Python · dbt · PostgreSQL |
 | [**local-rag-knowledge-base**](https://github.com/Luis-eduardo-f/local-rag-knowledge-base) | Sistema de RAG 100% local e open-source (sem depender de APIs pagas), com avaliação de retrieval | Python · ChromaDB · sentence-transformers · Ollama |
 | [**sales-metrics-api**](https://github.com/Luis-eduardo-f/sales-metrics-api) | API analítica de métricas de vendas, com autenticação por API key e cache | Python · FastAPI · SQLAlchemy |
+| [**farmacia-expansion-bi**](https://github.com/Luis-eduardo-f/farmacia-expansion-bi) 🚧 | *(em construção)* Inteligência de expansão para rede de farmácias: EDA, regressão de potencial de faturamento, clustering de perfil de lojas e modelo de canibalização (Huff) | Python · pandas · scikit-learn · Plotly |
 
 ---
 
