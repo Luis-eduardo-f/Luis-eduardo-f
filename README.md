@@ -3,10 +3,20 @@
 
 Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia de Software** (todas as disciplinas cursadas), com base sólida em Análise e Desenvolvimento de Sistemas já concluída. Construo pipelines de dados e serviços de ponta a ponta — extração, modelagem em camadas, testes automatizados e orquestração — buscando uma posição de **Analista de Ciência de Dados** para aplicar e aprofundar machine learning, inferência estatística e pesquisa operacional na prática.
 
-- 🎓 Tecnólogo em Ciência de Dados — Universidade Estácio de Sá (em andamento)
-- 🎓 Bacharelado em Engenharia de Software — Centro Universitário Estácio de Ribeirão Preto (disciplinas concluídas)
+**Formação acadêmica**
+- 🎓 Bacharelado em Administração — Centro Universitário Santo Agostinho (UNIFSA), Teresina-PI (concluído, CR 8,6120)
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Estácio de Ribeirão Preto (concluído)
-- 📚 Pós-graduações (lato sensu): Engenharia de Software · Web 3.0 · Engenharia de Redes e Segurança de Dados
+- 🎓 Bacharelado em Engenharia de Software — Centro Universitário Estácio de Ribeirão Preto (disciplinas concluídas)
+- 🎓 Tecnólogo em Ciência de Dados — Universidade Estácio de Sá (em andamento)
+- 🎓 Farmácia — Estácio (em andamento)
+- 🎓 Aprovação no Mestrado em Design (ingresso)
+
+**Pós-graduações (lato sensu)**
+- 📚 Engenharia de Software
+- 📚 Web 3.0
+- 📚 Engenharia de Redes e Segurança de Dados
+- 📚 Big Data e Inteligência Competitiva
+
 - 📫 [luis7eduardo@gmail.com](mailto:luis7eduardo@gmail.com) · [LinkedIn](https://linkedin.com/in/luis-eduardo-silva-a582712b0)
 
 ---
@@ -20,7 +30,7 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 | [**ecommerce-data-warehouse**](https://github.com/Luis-eduardo-f/ecommerce-data-warehouse) | Data warehouse de e-commerce com dbt: staging, star schema e 59+ testes de qualidade de dados | Python · dbt · PostgreSQL |
 | [**local-rag-knowledge-base**](https://github.com/Luis-eduardo-f/local-rag-knowledge-base) | Sistema de RAG 100% local e open-source (sem depender de APIs pagas), com avaliação de retrieval | Python · ChromaDB · sentence-transformers · Ollama |
 | [**sales-metrics-api**](https://github.com/Luis-eduardo-f/sales-metrics-api) | API analítica de métricas de vendas, com autenticação por API key e cache | Python · FastAPI · SQLAlchemy |
-| [**farmacia-expansion-bi**](https://github.com/Luis-eduardo-f/farmacia-expansion-bi) 🚧 | *(em construção)* Inteligência de expansão para rede de farmácias: EDA, regressão de potencial de faturamento, clustering de perfil de lojas e modelo de canibalização (Huff) | Python · pandas · scikit-learn · Plotly |
+| [**farmacia-expansion-bi**](https://github.com/Luis-eduardo-f/farmacia-expansion-bi) | Inteligência de expansão para rede de farmácias: regressão de potencial de faturamento (OLS + VIF), clustering de perfil de lojas (K-Means + PCA) e modelo de canibalização gravitacional (Huff) — estudo de caso "Drogaria Garibaldi" | Python · pandas · statsmodels · scikit-learn · matplotlib |
 
 ---
 
