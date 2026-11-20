@@ -15,6 +15,7 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**ai-legal-assistant**](https://github.com/Luis-eduardo-f/ai-legal-assistant) | RAG jurídico com citação de fonte por página: upload de petições em PDF (com fallback de OCR), perguntas em linguagem natural, respostas sempre rastreáveis ao documento original. Providers de embeddings/LLM plugáveis (local, AWS Bedrock, Anthropic), autenticação JWT, Terraform para deploy na AWS | Python · FastAPI · ChromaDB · Docker · Terraform |
 | [**crypto-data-pipeline**](https://github.com/Luis-eduardo-f/crypto-data-pipeline) | Pipeline ETL em camadas (raw → staging → marts) para dados diários de mercado cripto, extraídos da API da CoinGecko. Orquestração com Airflow, gates de qualidade fail-fast, métricas em SQL com window functions, testes automatizados e CI | Python · Airflow · PostgreSQL · Docker · GitHub Actions |
 | [**ecommerce-data-warehouse**](https://github.com/Luis-eduardo-f/ecommerce-data-warehouse) | Data warehouse de e-commerce com dbt: staging, star schema e 59+ testes de qualidade de dados | Python · dbt · PostgreSQL |
 | [**local-rag-knowledge-base**](https://github.com/Luis-eduardo-f/local-rag-knowledge-base) | Sistema de RAG 100% local e open-source (sem depender de APIs pagas), com avaliação de retrieval | Python · ChromaDB · sentence-transformers · Ollama |
@@ -26,7 +27,8 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 
 **Linguagens e dados:** Python (pandas, requests, SQLAlchemy) · SQL (consultas analíticas, window functions)
 **Engenharia de dados:** Apache Airflow · dbt · PostgreSQL · arquitetura em camadas (medallion) · qualidade de dados
-**Infraestrutura e DevOps:** Docker · Docker Compose · Git/GitHub · GitHub Actions (CI) · pytest
+**Infraestrutura e DevOps:** Docker · Docker Compose · Git/GitHub · GitHub Actions (CI) · pytest · Terraform
+**IA Generativa:** RAG (Retrieval-Augmented Generation) · ChromaDB · sentence-transformers · AWS Bedrock
 **Fundamentos de Ciência de Dados:** Estatística e Probabilidade · Machine Learning · Computação em Nuvem · Preparação e Visualização de Dados
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,6 +39,7 @@ Estudante avançado de **Ciência de Dados** (Estácio, EAD) e de **Engenharia d
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
